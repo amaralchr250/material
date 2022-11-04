@@ -1,8 +1,8 @@
 # Project information
-site_name: "MkDocs Material Boilerplate"
-site_description: "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions."
-site_author: "peaceiris"
-site_url: "https://mkdocs.peaceiris.com/"
+site_name: "Documentação Magma3"
+site_description: "Transformação digital."
+site_author: "christopher"
+site_url: "https://mmagma3.br/"
 
 # Copyright
 copyright: "&copy; 2021 peaceiris"
@@ -66,22 +66,19 @@ extra:
 
 # Page tree
 nav:
-  - "Home": "index.md"
-  - "Material for MkDocs": "material-for-mkdocs.md"
-  - "Getting started":
-      - "Download boilerplate": "getting-started/download-boilerplate.md"
-      - "pipenv": "getting-started/pipenv.md"
-      - "invoke": "getting-started/invoke.md"
-      - "Docker": "getting-started/docker.md"
-      - "pip": "getting-started/pip.md"
-  - "Hosting and Deployment":
+  - "Inicio": "index.md"
+  - "Documentação": "material-for-mkdocs.md"
+  - "Kick-off":
+      - "Politicas de conformidades": "getting-started/download-boilerplate.md"
+      - "Politicas de configuração": "getting-started/pipenv.md"
+  - "Alaska":
       - "Combinations": "hosting-and-deployment/combinations.md"
       - "Netlify": "hosting-and-deployment/netlify.md"
       - "GitHub Pages": "hosting-and-deployment/github-pages.md"
       - "GitLab Pages": "hosting-and-deployment/gitlab-pages.md"
       - "AWS Amplify Console": "hosting-and-deployment/aws-amplify-console.md"
-  - "Extensions":
+  - "Bluesky":
       - "MathJax": "extensions/mathjax.md"
       - "Code Hilite": "extensions/code-hilite.md"
       - "Footnote": "extensions/footnote.md"
-  - "License": "license.md"
+  - "Creditos": "license.md"
