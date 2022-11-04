@@ -24,4 +24,4 @@ Aproveitar o recurso para auxiliar no desenvolvimento da empresa como também em
 1- O recebimento dessas informações é em tempo real, e a visualização dessa informação é atualizada no painel de business intelligence no dia seguinte.
 
 2- Exemplo
-<br><img src="https://s3.amazonaws.com/movidesk-files/0A31F883C284F3151CE2BB8556668177" alt="Geolocalização" width="640"><br>
+<br><img src="https://s3.amazonaws.com/movidesk-files/0A31F883C284F3151CE2BB8556668177" alt="Geolocalização" width="640x640"><br>
