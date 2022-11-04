@@ -1,66 +1,27 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/graduate-cap.png" alt="MkDocs icon" width="170">
-<br>MkDocs Material<br>Boilerplate - Starter Kit
+<br>Documentação Magma3<br>Geolocalização
 </h1>
 
-![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/material.png)
+1- Gerenciar a localização dos ativos em tempo real (Informações da localização é uma função que existe dentro do próprio sistema operacional).
+
+2- Identificar através da localização dos ativos o melhor acompanhamento diário de forma mais simples, rápida e fácil.
+
+3- Mapear todos os ativos em suas localizações obtendo assim dados e usá-los para gerenciar recursos e ativos eficientemente.
+Aproveitar o recurso para auxiliar no desenvolvimento da empresa como também em IoT e Smart City.
 
 
 
-[![license](https://img.shields.io/github/license/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/blob/main/LICENSE)
-[![release](https://img.shields.io/github/release/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/releases/latest)
-[![GitHub release date](https://img.shields.io/github/release-date/peaceiris/mkdocs-material-boilerplate.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/releases)
-[![GitHub Actions status](https://github.com/peaceiris/mkdocs-material-boilerplate/workflows/github%20pages/badge.svg)](https://github.com/peaceiris/mkdocs-material-boilerplate/actions)
+## Como configurar
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c95ccf4-5c1e-447b-8025-dd0b6f8764a5/deploy-status)](https://app.netlify.com/sites/mkdocs-material/deploys)
+1- Acessar o menu “Políticas de configuração”.
 
-<!-- https://shields.io/ -->
+2- Habilitar política "Geolocalização".
 
 
+## Como funciona
 
-## Details
+1- O recebimento dessas informações é em tempo real, e a visualização dessa informação é atualizada no painel de business intelligence no dia seguinte.
 
-Read more 👉 [Documentation - MkDocs Material Boilerplate]
-
-[Documentation - MkDocs Material Boilerplate]: https://peaceiris.github.io/mkdocs-material-boilerplate/
-
-
-
-## Quick start
-
-```sh
-git clone https://github.com/peaceiris/mkdocs-material-boilerplate.git
-cd mkdocs-material-boilerplate
-pipenv sync --dev
-pipenv shell
-inv serve --config-file mkdocs-sample.yml
-```
-
-
-
-## Links
-
-- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
-- [squidfunk/mkdocs-material: A Material Design theme for MkDocs]
-
-[mkdocs/mkdocs: Project documentation with Markdown - GitHub]: https://github.com/mkdocs/mkdocs/
-[squidfunk/mkdocs-material: A Material Design theme for MkDocs]: https://github.com/squidfunk/mkdocs-material
-
-
-
-## License
-
-- [MIT License]
-- [The graduate cap icon] made by [Freepik] from [www.flaticon.com] is licensed by [CC 3.0 BY]
-
-[MIT License]: https://github.com/peaceiris/mkdocs-material-boilerplate/blob/main/LICENSE
-[The graduate cap icon]: https://www.flaticon.com/free-icon/graduate-cap_62627
-[Freepik]: https://www.freepik.com/
-[www.flaticon.com]: https://www.flaticon.com/
-[CC 3.0 BY]: http://creativecommons.org/licenses/by/3.0/
-
-
-
-## About Maintainer
-
-- [peaceiris Homepage](https://peaceiris.com/)
+2- Exemplo
+<img src="https://s3.amazonaws.com/movidesk-files/0A31F883C284F3151CE2BB8556668177" alt="Geolocalização" width="170">
