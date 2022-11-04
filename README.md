@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/main/docs_sample/images/graduate-cap.png" alt="MkDocs icon" width="170">
+<img src="![image](https://user-images.githubusercontent.com/42553791/200058891-237a4508-4447-4521-bf16-a36b56045625.png)" alt="Magma3" width="170">
 <br>Documentação Magma3<br>Geolocalização
 </h1>
 
