@@ -2,7 +2,7 @@
 
 
 
-## Magma3 (Base de con
+## Magma3 (Base de conhecimento)
 
 - [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
 
