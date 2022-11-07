@@ -3,7 +3,7 @@
 <br>Documentação da Magma3<br><br>Geolocalização<br>
 </h1>
 
-<h2><br>Esta documentação foi criada para auxiliar você na busca por informações, resoluções de dúvidas sobre o produto, ajudar a configurar recursos quando necessário e trazer conhecimentos relevantes sobre o sistema.<br></h2>
+<h2>Esta documentação foi criada para auxiliar você na busca por informações, resoluções de dúvidas sobre o produto, ajudar a configurar recursos quando necessário e trazer conhecimentos relevantes sobre o sistema.</h2>
 
 1- Gerenciar a localização dos ativos em tempo real (Informações da localização é uma função que existe dentro do próprio sistema operacional).
 
