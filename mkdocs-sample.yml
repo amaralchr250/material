@@ -68,9 +68,9 @@ extra:
     - name: English
       link: /en/ 
       lang: en
-    - name: Deutsch
-      link: /de/
-      lang: de
+    - name: Spanish
+      link: /es/
+      lang: es
 # Page tree
 nav:
   - "Inicio": "index.md"
