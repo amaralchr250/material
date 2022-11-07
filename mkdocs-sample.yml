@@ -75,8 +75,6 @@ extra:
       link: /es/
       lang: es
       extra:
-  analytics: 
-    feedback:
       title: Was this page helpful?
       ratings:
         - icon: material/emoticon-happy-outline
