@@ -52,6 +52,9 @@ plugins:
         - en
 
 # Customization
+extra:
+  homepage: https://magma3.com.br
+  
 extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
 extra_css:
