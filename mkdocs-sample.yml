@@ -62,10 +62,10 @@ extra_css:
 extra:
   manifest: "manifest.json"
   social:
-    - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/peaceiris"
-    - icon: "fontawesome/brands/twitter"
-      link: "https://twitter.com/piris314en"
+    - icon: "fontawesome/brands/instagram"
+      link: "https://www.instagram.com/magma3_"
+    - icon: "fontawesome/brands/linkedin"
+      link: "https://www.linkedin.com/company/magma3---tecnologia-e-solu%C3%A7%C3%B5es"
 extra:
   alternate:
     - name: English
