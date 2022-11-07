@@ -1,82 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mmagma3.br/</loc>
+         <loc>https://magma3.com.br/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/license/</loc>
+         <loc>https://magma3.com.br/license/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/material-for-mkdocs/</loc>
+         <loc>https://magma3.com.br/material-for-mkdocs/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/extensions/code-hilite/</loc>
+         <loc>https://magma3.com.br/extensions/code-hilite/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/extensions/footnote/</loc>
+         <loc>https://magma3.com.br/extensions/footnote/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/extensions/mathjax/</loc>
+         <loc>https://magma3.com.br/extensions/mathjax/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/getting-started/docker/</loc>
+         <loc>https://magma3.com.br/getting-started/docker/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/getting-started/download-boilerplate/</loc>
+         <loc>https://magma3.com.br/getting-started/download-boilerplate/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/getting-started/invoke/</loc>
+         <loc>https://magma3.com.br/getting-started/invoke/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/getting-started/pip/</loc>
+         <loc>https://magma3.com.br/getting-started/pip/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/getting-started/pipenv/</loc>
+         <loc>https://magma3.com.br/getting-started/pipenv/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/hosting-and-deployment/aws-amplify-console/</loc>
+         <loc>https://magma3.com.br/hosting-and-deployment/aws-amplify-console/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/hosting-and-deployment/combinations/</loc>
+         <loc>https://magma3.com.br/hosting-and-deployment/combinations/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/hosting-and-deployment/github-pages/</loc>
+         <loc>https://magma3.com.br/hosting-and-deployment/github-pages/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/hosting-and-deployment/gitlab-pages/</loc>
+         <loc>https://magma3.com.br/hosting-and-deployment/gitlab-pages/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mmagma3.br/hosting-and-deployment/netlify/</loc>
+         <loc>https://magma3.com.br/hosting-and-deployment/netlify/</loc>
          <lastmod>2022-11-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
