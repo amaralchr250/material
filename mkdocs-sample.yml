@@ -5,12 +5,12 @@ site_author: "christopher"
 site_url: "https://magma3.com.br/"
 
 # Copyright
-copyright: "&copy; 2021 peaceiris"
+copyright: "&copy; 2022 magma3"
 
 # Repository
-repo_name: "GitHub"
-repo_url: "https://github.com/peaceiris/mkdocs-material-boilerplate"
-edit_uri: "https://github.com/peaceiris/mkdocs-material-boilerplate/edit/main/docs_sample"
+repo_name: "material.github.io"
+repo_url: "https://github.com/amaralchr250/material.github.io"
+edit_uri: "https://github.com/amaralchr250/material.github.io/edit/main/mkdocs-sample.yml"
 
 # Configuration
 docs_dir: "docs_sample"
