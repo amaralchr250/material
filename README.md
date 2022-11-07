@@ -4,6 +4,8 @@
 </h2>
 <h3>Esta documentação foi criada para auxiliar você na busca por informações, resoluções de dúvidas sobre o produto, ajudar a configurar recursos quando necessário e trazer conhecimentos relevantes sobre o sistema.</h3>
 
+## Objetivo
+
 1- Gerenciar a localização dos ativos em tempo real (Informações da localização é uma função que existe dentro do próprio sistema operacional).
 
 2- Identificar através da localização dos ativos o melhor acompanhamento diário de forma mais simples, rápida e fácil.
