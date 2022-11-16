@@ -4,6 +4,6 @@
 
 ## Magma3 (Base de conhecimento)
 
-- [mkdocs/mkdocs: Project documentation with Markdown - GitHub]
+- (https://suporte.magma3.com.br/kb/article/169768/ola)
 
  Magma3 (Base de conhecimento)
