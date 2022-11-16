@@ -92,7 +92,7 @@ extra:
 nav:
   - "Inicio": "index.md"
   - "Documentação": "material-for-mkdocs.md"
-  - "Kick-off":
+  - "Force1":
       - "Politicas de conformidades": "getting-started/download-boilerplate.md"
       - "Politicas de configuração": "getting-started/pipenv.md"
   - "Alaska":
