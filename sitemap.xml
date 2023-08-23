@@ -2,82 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://magma3.com.br/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/license/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/material-for-mkdocs/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/extensions/code-hilite/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/extensions/footnote/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/extensions/mathjax/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/getting-started/docker/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/getting-started/download-boilerplate/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/getting-started/invoke/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/getting-started/pip/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/getting-started/pipenv/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/hosting-and-deployment/aws-amplify-console/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/hosting-and-deployment/combinations/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/hosting-and-deployment/github-pages/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/hosting-and-deployment/gitlab-pages/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://magma3.com.br/hosting-and-deployment/netlify/</loc>
-         <lastmod>2022-11-16</lastmod>
+         <lastmod>2023-08-23</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
